@@ -7,7 +7,6 @@ class Modal {
   }
 
   events() {
-
     // listen for close click
     this.closeIcon.addEventListener("click", () => this.closeTheModal())
 
